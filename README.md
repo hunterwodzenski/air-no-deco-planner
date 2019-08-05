@@ -6,4 +6,4 @@
 
 ![USN RNT Exception Test Case](https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp2.PNG)
 
-![Home Screen](https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp.PNG)
+![Home Screen](https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/npd.PNG)
