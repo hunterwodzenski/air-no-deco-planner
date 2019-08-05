@@ -25,5 +25,5 @@ The NO-DECO PLANNER app generates a standard dive box profile from a user's dive
 
 <p align="center">
 <b>The app home page.</b></br>
-img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp.PNG">
+<img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp.PNG">
 </p>
