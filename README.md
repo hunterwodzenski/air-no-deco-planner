@@ -8,7 +8,7 @@ The NO-DECO PLANNER app generates a standard dive box profile from a user's dive
 </p>
 
 <p align="center">
-<b>A normal dive within the no-decompression limits using the metric system for depth.**
+  <b>A normal dive within the no-decompression limits using the metric system for depth.</b>
 <img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp3.PNG">
 </p>
 
