@@ -3,22 +3,26 @@
 The NO-DECO PLANNER app generates a standard dive box profile from a user's dive parameters using the air no-decompression data freely available from the most recent revision of the U.S. Navy Diving Manual (R7).
 
 <p align="center">
-**A normal dive within the no-decompression limits using the imperial system for depth.**
+  <b>A normal dive within the no-decompression limits using the imperial system for depth.</b>
+  <img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp0.PNG">
+</p>
 
-<img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp0.PNG">
-
-**A normal dive within the no-decompression limits using the metric system for depth.**
+<p align="center">
+<b>A normal dive within the no-decompression limits using the metric system for depth.**
 <img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp3.PNG">
+</p>
 
-**A dive that exceeds the no-decompression limit.**
-
+<p align="center">
+<b>A dive that exceeds the no-decompression limit.</b>
 <img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp1.PNG">
+</p>
 
-**A dive for which the residual nitrogen time can't be determined, because the nitrogen loading exceeds that which is thought to be possible.**
-
+<p align="center">
+<b>A dive for which the residual nitrogen time can't be determined, because the nitrogen loading exceeds that which is thought to be possible.</b>
 <img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp2.PNG">
+</p>
 
-The app home page.
-
-**<img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp.PNG">**
+<p align="center">
+<b>The app home page.</b>
+img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp.PNG">
 </p>
