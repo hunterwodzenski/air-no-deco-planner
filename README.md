@@ -19,6 +19,7 @@ The NO-DECO PLANNER app generates a standard dive box profile from a user's dive
 
 <p align="center">
 <b>A dive for which the residual nitrogen time can't be determined, because the nitrogen loading exceeds that which is thought to be possible.</b>
+  
 <img align="center" src="https://github.com/hunterwodzenski/air-no-deco-planner/blob/master/screenshots/ndp2.PNG">
 </p>
 
